@@ -3,10 +3,10 @@
 <sup>
 ~~~ ⤬ ~~~  
 <br>
-Hello, I'm lexeci and welcome to my page.</br>
-There is nothing special that you can see on other developers.<br>
-But you still will find something that you will like.</br>
-Have a good day.<br>
+Hello, I'm lexeci and glad to see that you’re here.</br>
+Here, you might not find anything extraordinary like other developers.<br>
+But, I’m sure you’ll find something that catches your interest.</br>
+Enjoy your exploring!<br>
 ~~~ ⤬ ~~~  
 </sup> 
 </p>
